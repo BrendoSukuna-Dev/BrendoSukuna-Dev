@@ -33,6 +33,8 @@
 
 ##
 
+![Snake animation](https://github.com/BrendoSukuna-Dev/BrendoSukuna-Dev/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
  <div>
