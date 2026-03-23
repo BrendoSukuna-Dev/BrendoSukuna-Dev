@@ -2,6 +2,7 @@
 <br>
 
 [![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)](https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)
+[![Discord](https://img.shields.io/badge/-Discord-gray?style=flat-square&logo=Discord&logoColor=blurple&link=https://discord.com/users/ry.sukuna_s2)](https://discord.com/users/ry.sukuna_s2)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)](https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)
 [![GitHub followers](https://img.shields.io/github/followers/BrendoSukuna-Dev?label=Follow&style=social)](https://github.com/BrendoSukuna-Dev)
 ![profile-views](https://komarev.com/ghpvc/?username=BrendoSukuna-Dev&color=orange)
