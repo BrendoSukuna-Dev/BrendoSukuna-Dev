@@ -1,7 +1,7 @@
 # Olá, Sou o Brendo, mas podem me chama de Sukuna! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)](https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)
 [![GitHub followers](https://img.shields.io/github/followers/BrendoSukuna-Dev?label=Follow&style=social)](https://github.com/BrendoSukuna-Dev)
 ![profile-views](https://komarev.com/ghpvc/?username=BrendoSukuna-Dev&color=orange)
 
@@ -15,15 +15,18 @@
  
 **Linguagens e Base**
 <br/>
-![Languages](https://skillicons.dev/icons?i=js,html,css)
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
 **Frameworks e Ambientes**
 <br/>
-![Frameworks](https://skillicons.dev/icons?i=vscode)
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 
 **Infra, Bancos e Outros**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=git)
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
 ## 📊 Estatus do GitHub
 <div align="left">
