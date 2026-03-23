@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9104E6&width=550&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sou+um+Estudante+De+Engenharia+De+Software!+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 <br>
-<h2>🖥Tecnologias Utilizadas</h2>
+<h2>🖥Tecnologias que utilizo</h2>
 <br>
  
 **Linguagens e Base**
