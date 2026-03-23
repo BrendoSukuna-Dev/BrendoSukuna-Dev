@@ -1,6 +1,7 @@
 # Olá, Sou o Brendo, mas podem me chama de Sukuna! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 <br>
 
+[![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)](https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)](https://www.linkedin.com/in/brendo-santos-conceicão-12508118b/)
 [![GitHub followers](https://img.shields.io/github/followers/BrendoSukuna-Dev?label=Follow&style=social)](https://github.com/BrendoSukuna-Dev)
 ![profile-views](https://komarev.com/ghpvc/?username=BrendoSukuna-Dev&color=orange)
