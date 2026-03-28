@@ -1,4 +1,4 @@
-<img align="center" alt="gif-art" width="30%" src="https://file.notion.so/f/f/453db3ee-4de3-8135-bfd6-0003fd69ebfb/285d486a-2270-4c42-80a6-bbd80b63f48f/download.gif?table=block&id=321db3ee-4de3-80a4-b5a4-c9d528d3b832&spaceId=453db3ee-4de3-8135-bfd6-0003fd69ebfb&expirationTimestamp=1774706400000&signature=IkobguOqdHXRokSMrsV0Ot3nCO35VyrxRnj054I4lWA"/>
+<img align="center" alt="gif-art" width="100%" src="https://file.notion.so/f/f/453db3ee-4de3-8135-bfd6-0003fd69ebfb/285d486a-2270-4c42-80a6-bbd80b63f48f/download.gif?table=block&id=321db3ee-4de3-80a4-b5a4-c9d528d3b832&spaceId=453db3ee-4de3-8135-bfd6-0003fd69ebfb&expirationTimestamp=1774706400000&signature=IkobguOqdHXRokSMrsV0Ot3nCO35VyrxRnj054I4lWA"/>
 
 
 # Olá, Sou o Brendo, mas podem me chama de Sukuna! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
