@@ -1,4 +1,5 @@
-# Olá, Sou o Brendo, mas podem me chama de Sukuna!
+# Olá, Sou o Brendo, mas podem me chama de Sukuna! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
 <br>
 
 [![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)](https://platinum-gazelle-658.notion.site/Engenharia-De-Software-BrendoSukuna-Dev-321db3ee4de380a4b5a4c9d528d3b832?source=copy_link)
