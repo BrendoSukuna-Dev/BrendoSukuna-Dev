@@ -30,12 +30,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-## 📊 Estatus do GitHub
-<div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BrendoSukuna-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoSukuna-Dev&amp;layout=compact&amp;langs_count=8&amp;theme=dark" alt="Top langs"/>
-</div>
-
 ##
 
 <br>
