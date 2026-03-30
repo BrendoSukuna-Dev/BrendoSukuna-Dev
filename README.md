@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9104E6&width=550&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sou+um+Estudante+De+Engenharia+De+Software!+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-<img align="center" alt="gif-art" width="100%" src="https://file.notion.so/f/f/453db3ee-4de3-8135-bfd6-0003fd69ebfb/285d486a-2270-4c42-80a6-bbd80b63f48f/download.gif?table=block&id=321db3ee-4de3-80a4-b5a4-c9d528d3b832&spaceId=453db3ee-4de3-8135-bfd6-0003fd69ebfb&expirationTimestamp=1774706400000&signature=IkobguOqdHXRokSMrsV0Ot3nCO35VyrxRnj054I4lWA"/>
+<img align="center" alt="gif-art" width="100%" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*63huS_CKlpKPOV0GRlMs1g.gif"/>
 
 <br>
 <h2>🖥Tecnologias utilizadas por mim atualmente</h2>
