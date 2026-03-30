@@ -35,6 +35,8 @@
 
 ##
 
+<img src="https://raw.githubusercontent.com/BrendoSukuna-Dev/BrendoSukuna-Dev/output/snake.svg" alt="Snake animation" />
+
 <br>
 
  <div>
