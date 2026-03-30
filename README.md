@@ -18,20 +18,29 @@
 <h2>🖥Tecnologias utilizadas por mim atualmente</h2>
 <br>
  
-**Linguagens e Base**
+**Linguagens**
 <br/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
-**Frameworks e Ambientes**
+**IDE**
 <br/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
+<code><img height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" alt="Sublime-Text" title="SUBLIME TEXT"/></code>
 
-**Infra, Bancos e Outros**
+
+**Banco de dados**
 <br/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+
+**Ferramenntas de negócios**                                                                                                                                   
+<code><img width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.png" alt="Notion" title="NOTION"/></code>
+<code><img width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-teams-icon.png" alt="Microsoft-Teams" title="MICROSOFT TEAMS"/></code>
+
+**Sistema operacional**                                                                        
+<code><img width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/windows-10-icon.png" alt="Windows-11" title="WINDOWS 11"/></code>
 
 ##
 
