@@ -35,7 +35,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-**Ferramenntas de negócios**                                                                                                                                   
+**Ferramentas de negócios**                                                                                                                                   
 <code><img width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.png" alt="Notion" title="NOTION"/></code>
 <code><img width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-teams-icon.png" alt="Microsoft-Teams" title="MICROSOFT TEAMS"/></code>
 
